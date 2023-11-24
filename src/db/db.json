@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Task 1",
+      "priority": "High",
+      "category": "Work",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Task 2",
+      "priority": "Medium",
+      "category": "Personal",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Task 3",
+      "priority": "Low",
+      "category": "Study",
+      "completed": true
+    }
+  ]
+}
